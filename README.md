@@ -51,9 +51,7 @@ The app will run on http://127.0.0.1:1337
 
 #### Full setup
 
-```shell
-git clone https://github.com/yogaboll/react-kanban.git
-
+```
 cd react-kanban
 
 npm install
